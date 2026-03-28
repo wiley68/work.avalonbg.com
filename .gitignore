@@ -1,0 +1,5 @@
+/data/*.sqlite
+/data/*.sqlite-journal
+/config/config.php
+/frontend/node_modules/
+/public/spa/

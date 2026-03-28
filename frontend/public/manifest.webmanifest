@@ -1,0 +1,17 @@
+{
+  "name": "Работен график",
+  "short_name": "График",
+  "description": "Проследяване на операции и време",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f1c18",
+  "theme_color": "#1a3a2f",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
